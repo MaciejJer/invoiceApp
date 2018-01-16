@@ -1,4 +1,4 @@
-package pl.liteinvoice.model;
+package pl.liteinvoice.model.user;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

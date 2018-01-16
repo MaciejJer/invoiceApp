@@ -1,7 +1,7 @@
 package pl.liteinvoice.controller;
 
-import pl.liteinvoice.model.User;
-import pl.liteinvoice.model.UserProfile;
+import pl.liteinvoice.model.user.User;
+import pl.liteinvoice.model.user.UserProfile;
 import pl.liteinvoice.service.UserProfileService;
 import pl.liteinvoice.service.UserService;
 import javax.servlet.http.HttpServletRequest;

@@ -2,7 +2,7 @@ package pl.liteinvoice.service;
 
 import org.springframework.stereotype.Repository;
 import pl.liteinvoice.dao.UserProfileDao;
-import pl.liteinvoice.model.UserProfile;
+import pl.liteinvoice.model.user.UserProfile;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
