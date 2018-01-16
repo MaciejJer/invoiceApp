@@ -1,6 +1,6 @@
 package pl.liteinvoice.dao;
 
-import pl.liteinvoice.model.user.PersistentLogin;
+import pl.liteinvoice.model.PersistentLogin;
 import org.hibernate.Criteria;
 import org.hibernate.criterion.Restrictions;
 import org.slf4j.Logger;

@@ -1,7 +1,7 @@
 package pl.liteinvoice.service;
 
 import org.springframework.stereotype.Service;
-import pl.liteinvoice.model.user.UserProfile;
+import pl.liteinvoice.model.UserProfile;
 
 import java.util.List;
 

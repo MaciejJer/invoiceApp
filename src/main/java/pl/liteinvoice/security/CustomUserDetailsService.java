@@ -1,7 +1,7 @@
 package pl.liteinvoice.security;
 
-import pl.liteinvoice.model.user.User;
-import pl.liteinvoice.model.user.UserProfile;
+import pl.liteinvoice.model.User;
+import pl.liteinvoice.model.UserProfile;
 import pl.liteinvoice.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

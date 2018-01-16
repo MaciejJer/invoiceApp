@@ -1,6 +1,6 @@
 package pl.liteinvoice.dao;
 
-import pl.liteinvoice.model.user.User;
+import pl.liteinvoice.model.User;
 import org.hibernate.Criteria;
 import org.hibernate.Hibernate;
 import org.hibernate.criterion.Order;

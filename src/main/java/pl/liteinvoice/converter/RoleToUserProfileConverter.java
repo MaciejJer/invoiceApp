@@ -1,6 +1,6 @@
 package pl.liteinvoice.converter;
 
-import pl.liteinvoice.model.user.UserProfile;
+import pl.liteinvoice.model.UserProfile;
 import pl.liteinvoice.service.UserProfileService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

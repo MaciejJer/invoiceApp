@@ -1,6 +1,6 @@
 package pl.liteinvoice.dao;
 
-import pl.liteinvoice.model.user.UserProfile;
+import pl.liteinvoice.model.UserProfile;
 
 import java.util.List;
 
