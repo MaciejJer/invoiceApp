@@ -16,7 +16,7 @@ import java.util.List;
 @Repository
 @Transactional
 @Service
-@ConditionalOnProperty(name = "pl.liteinvoice.repository", havingValue = "sqlDatabase")
+//@ConditionalOnProperty(name = "pl.liteinvoice.repository", havingValue = "sqlDatabase")
 public class DatabaseImpl implements Database {
 
   @PersistenceContext

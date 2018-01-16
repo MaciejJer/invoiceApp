@@ -1,9 +1,11 @@
 package pl.liteinvoice.repository;
 
+import org.springframework.stereotype.Service;
 import pl.liteinvoice.model.business.Invoice;
 
 import java.util.List;
 
+@Service
 public interface Database {
 
   void saveInvoice(Invoice invoice);
